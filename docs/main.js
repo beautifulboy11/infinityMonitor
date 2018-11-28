@@ -1852,7 +1852,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 var QuestionService = /** @class */ (function () {
     function QuestionService(http) {
         this.http = http;
-        this.formUrl = '/assets/form.json';
+        this.formUrl = '/infinityMonitor/assets/form.json';
         this.dataRead = new rxjs__WEBPACK_IMPORTED_MODULE_2__["BehaviorSubject"](false);
     }
     Object.defineProperty(QuestionService.prototype, "getQuestions", {
