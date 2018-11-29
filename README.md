@@ -1,2 +1,0 @@
-# infinityMonitor
-Inspection App
